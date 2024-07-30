@@ -6,11 +6,12 @@ Bem-vindo ao repositório para o curso de Redes Neurais Artificiais na Udemy. Es
 
 1. [Introdução](#introdução)
 2. [Aplicações de Redes Neurais](#aplicações-de-redes-neurais)
-3. [Tipos de Aprendizado de Máquina](#tipos-de-aprendizado-de-máquina)
-4. [Perceptron](#perceptron)
-5. [Treinamento/Ajuste de Peso](#treinamentoajuste-de-peso)
-6. [Implementação Passo a Passo de uma Rede Neural com Somente uma Camada](#implementação-passo-a-passo-de-uma-rede-neural-com-somente-uma-camada)
-7. [Conclusão](#conclusão)
+3. [Fundamentos Biológicos](#fundamentos-biológicos)
+4. [Neurônio Artificial / Perceptron](#neurônio-artificial--perceptron)
+5. [Pesos e Sinapses em Redes Neurais](#pesos-e-sinapses-em-redes-neurais)
+6. [Treinamento/Ajuste de Peso](#treinamentoajuste-de-peso)
+7. [Implementação Passo a Passo de uma Rede Neural com Somente uma Camada](#implementação-passo-a-passo-de-uma-rede-neural-com-somente-uma-camada)
+8. [Conclusão](#conclusão)
 
 ## Introdução
 
@@ -122,7 +123,7 @@ Onde:
 - **Entrada** é o valor da entrada associada ao peso.
 - **Erro** é o valor calculado como a diferença entre a resposta correta e a resposta calculada.
 
-### Processo de Treinamento
+## Implementação Passo a Passo de uma Rede Neural com Somente uma Camada
 
 1. **Propagação para Frente**: A entrada é passada pela rede neural, e a resposta é calculada.
 2. **Cálculo do Erro**: O erro é calculado com base na resposta correta e na resposta calculada.
